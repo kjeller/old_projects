@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/Tiles/Tile2.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/Tiles/Tile3.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/background_2.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/character.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/mountainRender3.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/titleScreen.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/Tiles/Tile1.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/hp/1hp.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/hp/2hp.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/hp/3hp.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/Vikingfont.spritefont</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/../../../../../../Dropbox/Filer/Blender/lowpoly/gameEnded.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/gameEnded.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/keycaps_white_red.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/rendered_coin_2.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/winscreen.png</File>
+    <File>C:/Users/Kjelleboi/documents/visual studio 2015/Projects/Viking Warrior - Slutprojekt/Viking Warrior - Slutprojekt/Content/Sprites/rendered_coin_small.png</File>
+  </SourceFiles>
+</SourceFileCollection>

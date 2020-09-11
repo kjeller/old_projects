@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Tile/1.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Tile/2.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Tile/default_texture_tile.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Player/60x120_default_sprite.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/GUI/Buttons/default_button.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/GUI/Buttons/hover_button.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Enemy/60x120_default_enemy_sprite.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/GUI/Fonts/Debug.spritefont</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/GUI/Fonts/Ubuntu.spritefont</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Player/penguin_64x91.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Player/penguin_64x80.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/GUI/Buttons/default_green_button.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/GUI/Buttons/hover_green_button.png</File>
+    <File>C:/Users/Kjelle/Dropbox/Skolbackups/te3b/Programmering2/Slutprojekt Monogame/Platformer Slutprojekt/Platformer Slutprojekt/Content/Enemy/red_penguin_64x80.png</File>
+  </SourceFiles>
+</SourceFileCollection>

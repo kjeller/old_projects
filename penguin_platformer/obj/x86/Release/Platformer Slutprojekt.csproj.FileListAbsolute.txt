@@ -1,0 +1,41 @@
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Enemy\60x120_default_enemy_sprite.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Enemy\red_penguin_64x80.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\GUI\Buttons\default_button.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\GUI\Buttons\default_green_button.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\GUI\Buttons\hover_button.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\GUI\Buttons\hover_green_button.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\GUI\Fonts\Debug.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\GUI\Fonts\Ubuntu.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Player\60x120_default_sprite.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Player\penguin_64x80.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Player\penguin_64x91.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Tile\1.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Tile\2.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Content\Tile\default_texture_tile.xnb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Levels\level_0.txt
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Levels\level_1.txt
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Levels\menu.txt
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Platformer Slutprojekt.exe.config
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Platformer Slutprojekt.exe
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\Platformer Slutprojekt.pdb
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\obj\x86\Release\Platformer Slutprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\obj\x86\Release\Platformer Slutprojekt.exe
+C:\Users\Kjelle\Dropbox\Skolbackups\te3b\Programmering2\Slutprojekt Monogame\Platformer Slutprojekt\Platformer Slutprojekt\obj\x86\Release\Platformer Slutprojekt.pdb
