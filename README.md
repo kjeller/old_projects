@@ -1,5 +1,6 @@
 # Older monogame projects
 2D platformer projects from 2016-2017 when I started learning C#.
+I uploaded these projects for fun without any intention to ever push updates.
 
 Contents:
   - test_platformer - originally called Viking Warrior, but had nothing to do with neither vikings nor warriors.
@@ -14,5 +15,3 @@ Contents:
     ![Titlescreen](images/penguin_game_titlescreen.PNG)
     ![In-game](images/penguin_game_in-game.PNG)
     ![In-game-debug](images/penguin_game_in-game-debug.PNG)
-
-I uploaded this for fun and have no intention to ever push updates.
